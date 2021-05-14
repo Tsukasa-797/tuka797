@@ -1,0 +1,6 @@
+
+s1 = 'ABCDE'
+s2 = s1[::-1]
+
+print(s1)  #=> "ABCDE"
+print(s2)  #=> "EDCBA"
