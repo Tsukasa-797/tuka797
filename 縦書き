@@ -1,0 +1,6 @@
+
+#入力値　
+
+n = input()
+for i in n:
+    print(i)
